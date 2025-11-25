@@ -3,7 +3,7 @@ st.title("Hotel Sales App Logo")
 st.markdown("""
     <style>
     .stApp {
-        background-color: #f0f2f6;     /* Light gray */
+        background-color: blue;     /* Light gray */
     }
     </style>
     """, unsafe_allow_html=True)
